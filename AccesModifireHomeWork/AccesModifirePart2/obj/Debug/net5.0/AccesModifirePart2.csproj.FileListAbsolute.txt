@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\bin\Debug\net5.0\AccesModifirePart2.exe
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\bin\Debug\net5.0\AccesModifirePart2.deps.json
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\bin\Debug\net5.0\AccesModifirePart2.runtimeconfig.json
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\bin\Debug\net5.0\AccesModifirePart2.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\bin\Debug\net5.0\AccesModifirePart2.dll
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\bin\Debug\net5.0\AccesModifirePart2.pdb
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\obj\Debug\net5.0\AccesModifirePart2.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\obj\Debug\net5.0\AccesModifirePart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\obj\Debug\net5.0\AccesModifirePart2.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\obj\Debug\net5.0\AccesModifirePart2.AssemblyInfo.cs
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\obj\Debug\net5.0\AccesModifirePart2.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\obj\Debug\net5.0\AccesModifirePart2.dll
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\obj\Debug\net5.0\refint\AccesModifirePart2.dll
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\obj\Debug\net5.0\AccesModifirePart2.pdb
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\obj\Debug\net5.0\AccesModifirePart2.genruntimeconfig.cache
+C:\Users\Omer\Desktop\AccessModifirePart2\AccesModifireHomeWork\AccesModifirePart2\obj\Debug\net5.0\ref\AccesModifirePart2.dll
